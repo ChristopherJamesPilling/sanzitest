@@ -1,192 +1,316 @@
-1. HOY-37964 (238-408_DG_Older_408_Kitt.jpg)
-Navn: Older - Kitt
+1. HOY-21293 (236-3010_DG_Soft_Merino_3010_Jadegrønn.jpg)
+Navn: Soft Merino - Jadegrønn
 Kreditering: 
 
-2. HOY-37973 (238-417_DG_Older_417_Maisgul.jpg)
-Navn: Older - Maisgul
+2. HOY-21302 (236-3016_DG_Soft_Merino_3016_Karamell.jpg)
+Navn: Soft Merino - Karamell
 Kreditering: 
 
-3. HOY-39186 (238-400_DG_Older_400_Hvit.jpg)
-Navn: Older - Hvit
+3. HOY-22075 (236-3021_DG_Soft_Merino_3021_Rød_Banderole.jpg)
+Navn: Soft Merino - Rød
 Kreditering: 
 
-4. HOY-39187 (238-404_DG_Older_404_Brun_Banderole.jpg)
-Navn: Older - Brun
+4. HOY-27570 (236-3026_DG_Soft_Merino_3026_Lys_Lavendel_Banderole.jpg)
+Navn: Soft Merino - Lys lavendel
 Kreditering: 
 
-5. HOY-39189 (238-406_DG_Older_406_Koksgrå.jpg)
-Navn: Older - Koksgrå
+5. HOY-27576 (236-3030_DG_Soft_Merino_3030_Skarp_Grønn.jpg)
+Navn: Soft Merino - Skarp grønn
 Kreditering: 
 
-6. HOY-39194 (238-410_DG_Older_410_Pæregrønn_Banderole.jpg)
-Navn: Older - Pæregrønn
+6. HOY-28110 (236-3001_DG_Soft_Merino_3001_Hvit_Banderole.jpg)
+Navn: Soft Merino - Hvit
 Kreditering: 
 
-7. HOY-39197 (238-412_DG_Older_412_Flaskegrønn.jpg)
-Navn: Older - Flaskegrønn
+7. HOY-28114 (236-3003_DG_Soft_Merino_3003_Grå_Melert_Banderole.jpg)
+Navn: Soft Merino - Grå melert
 Kreditering: 
 
-8. HOY-39199 (238-415_DG_Older_415_Mørk_Rød_Banderole.jpg)
-Navn: Older - Dyp rød
+8. HOY-28118 (236-3005_DG_Soft_Merino_3005_Gråbeige_Melert.jpg)
+Navn: Soft Merino - Gråbeige melert
 Kreditering: 
 
-9. HOY-39202 (238-419_DG_Older_419_Turkis_Banderole.jpg)
-Navn: Older - Turkis
+9. HOY-28121 (236-3008_DG_Soft_Merino_3008_Maisgul_Banderole.jpg)
+Navn: Soft Merino - Maisgul
 Kreditering: 
 
-10. HOY-39203 (238-421_DG_Older_421_Lavendel.jpg)
-Navn: Older - Lavendel
+10. HOY-28124 (236-3012_DG_Soft_Merino_3012_Aquagrønn_Banderole.jpg)
+Navn: Soft Merino - Aquagrønn
 Kreditering: 
 
-11. HOY-39299 (238-400_DG_Older_400_Hvit_Banderole.jpg)
-Navn: Older - Hvit
+11. HOY-28125 (236-3014_DG_Soft_Merino_3014_Mørk_Gråblå.jpg)
+Navn: Soft Merino - Mørk gråblå
 Kreditering: 
 
-12. HOY-39301 (238-403_DG_Older_403_Brun_Melert.jpg)
-Navn: Older - Brun melert
+12. HOY-28129 (236-3018_DG_Soft_Merino_3018_Rosa_Banderole.jpg)
+Navn: Soft Merino - Rosa
 Kreditering: 
 
-13. HOY-39303 (238-406_DG_Older_406_Koksgrå_Banderole.jpg)
-Navn: Older - Koksgrå
+13. HOY-28827 (236-3002_DG_Soft_Merino_3002_Lys_Grå_Melert.jpg)
+Navn: Soft Merino - Lys grå melert
 Kreditering: 
 
-14. HOY-39307 (238-409_DG_Older_409_Indigoblå.jpg)
-Navn: Older - Indigoblå
+14. HOY-28829 (236-3005_DG_Soft_Merino_3005_Gråbeige_Melert_Banderole.jpg)
+Navn: Soft Merino - Gråbeige melert
 Kreditering: 
 
-15. HOY-39308 (238-412_DG_Older_412_Flaskegrønn_Banderole.jpg)
-Navn: Older - Flaskegrønn
+15. HOY-28833 (236-3007_DG_Soft_Merino_3007_Lys_Karamell.jpg)
+Navn: Soft Merino - Lys karamell
 Kreditering: 
 
-16. HOY-39311 (238-414_DG_Older_414_Teblad.jpg)
-Navn: Older - Teblad
+16. HOY-28835 (236-3010_DG_Soft_Merino_3010_Jadegrønn_Banderole.jpg)
+Navn: Soft Merino - Jadegrønn
 Kreditering: 
 
-17. HOY-39314 (238-417_DG_Older_417_Maisgul_Banderole.jpg)
-Navn: Older - Maisgul
+17. HOY-28839 (236-3011_DG_Soft_Merino_3011_Lys_blå.jpg)
+Navn: Soft Merino - Lys blå
 Kreditering: 
 
-18. HOY-39316 (238-418_DG_Older_418_Pink.jpg)
-Navn: Older - Pink
+18. HOY-28841 (236-3014_DG_Soft_Merino_3014_Mørk_Gråblå_Banderole.jpg)
+Navn: Soft Merino - Mørk gråblå
 Kreditering: 
 
-19. HOY-39317 (238-421_DG_Older_421_Lavendel_Banderole.jpg)
-Navn: Older - Lavendel
+19. HOY-28843 (236-3017_DG_Soft_Merino_3017_Lyng.jpg)
+Navn: Soft Merino - Lyng
 Kreditering: 
 
-20. HOY-39356 (238-423_DG_Older_423_Kitt_Tweed_Banderole.jpg)
-Navn: Older - Kitt tweed
+20. HOY-28876 (236-3022_DG_Soft_Merino_3022_Klar_Blå.jpg)
+Navn: Soft Merino - Klar blå
 Kreditering: 
 
-21. HOY-39412 (238-403_DG_Older_403_Brun_Melert_Banderole.jpg)
-Navn: Older - Brun melert
+21. HOY-29195 (236-3006_DG_Soft_Merino_3006_Sand.jpg)
+Navn: Soft Merino - Sand
 Kreditering: 
 
-22. HOY-39415 (238-405_DG_Older_405_Svart.jpg)
-Navn: Older - Svart
+22. HOY-29198 (236-3009_DG_Soft_Merino_3009_Lys_Gul_Banderole.jpg)
+Navn: Soft Merino - Lys gul
 Kreditering: 
 
-23. HOY-39417 (238-408_DG_Older_408_Kitt_Banderole.jpg)
-Navn: Older - Kitt
+23. HOY-29199 (236-3013_DG_Soft_Merino_3013_Petrol_Banderole.jpg)
+Navn: Soft Merino - Petrol
 Kreditering: 
 
-24. HOY-39418 (238-409_DG_Older_409_Indigoblå_Banderole.jpg)
-Navn: Older - Indigoblå
+24. HOY-29205 (236-3015_DG_Soft_Merino_3015_Varm_Brun.jpg)
+Navn: Soft Merino - Varm brun
 Kreditering: 
 
-25. HOY-39421 (238-411_DG_Older_411_Skarp_Grønn.jpg)
-Navn: Older - Skarp grønn
+25. HOY-29659 (236-3020_DG_Soft_Merino_3020_Flaskegrønn.jpg)
+Navn: Soft Merino - Flaskegrønn
 Kreditering: 
 
-26. HOY-39424 (238-414_DG_Older_414_Teblad_Banderole.jpg)
-Navn: Older - Teblad
+26. HOY-29662 (236-3022_DG_Soft_Merino_3022_Klar_Blå_Banderole.jpg)
+Navn: Soft Merino - Klar blå
 Kreditering: 
 
-27. HOY-39426 (238-416_DG_Older_416_Oransje.jpg)
-Navn: Older - Oransje
+27. HOY-29665 (236-3024_DG_Soft_Merino_3024_Marine.jpg)
+Navn: Soft Merino - Marine
 Kreditering: 
 
-28. HOY-39429 (238-418_DG_Older_418_Pink_Banderole.jpg)
-Navn: Older - Pink
+28. HOY-29988 (236-3019_DG_Soft_Merino_3019_Natur.jpg)
+Navn: Soft Merino - Natur
 Kreditering: 
 
-29. HOY-39431 (238-420_DG_Older_420_Isblå.jpg)
-Navn: Older - Isblå
+29. HOY-29994 (236-3023_DG_Soft_Merino_3023_Svart.jpg)
+Navn: Soft Merino - Svart
 Kreditering: 
 
-30. HOY-40038 (238-402_DG_Older_402_Latte.jpg)
-Navn: Older - Latte
+30. HOY-30564 (236-3001_DG_Soft_Merino_3001_Hvit.jpg)
+Navn: Soft Merino - Hvit
 Kreditering: 
 
-31. HOY-42117 (238-422_DG_Older_422_Gul_Banderole.jpg.jpg)
-Navn: Older - Gul
+31. HOY-30565 (236-3003_DG_Soft_Merino_3003_Grå_Melert.jpg)
+Navn: Soft Merino - Grå melert
 Kreditering: 
 
-32. HOY-43117 (238-423_DG_Older_423_Kitt_Tweed.jpg)
-Navn: Older - Kitt tweed
+32. HOY-30570 (236-3006_DG_Soft_Merino_3006_Sand_Banderole.jpg)
+Navn: Soft Merino - Sand
 Kreditering: 
 
-33. HOY-43590 (238-401_DG_Older_401_Natur.jpg)
-Navn: Older - Natur
+33. HOY-30573 (236-3008_DG_Soft_Merino_3008_Maisgul.jpg)
+Navn: Soft Merino - Maisgul
 Kreditering: 
 
-34. HOY-43594 (238-405_DG_Older_405_Svart_Banderole.jpg)
-Navn: Older - Svart
+34. HOY-30576 (236-3012_DG_Soft_Merino_3012_Aquagrønn.jpg)
+Navn: Soft Merino - Aquagrønn
 Kreditering: 
 
-35. HOY-43598 (238-407_DG_Older_407_Grå.jpg)
-Navn: Older - Grå
+35. HOY-30578 (236-3015_DG_Soft_Merino_3015_Varm_Brun_Banderole.jpg)
+Navn: Soft Merino - Varm brun
 Kreditering: 
 
-36. HOY-43603 (238-411_DG_Older_411_Skarp_Grønn_Banderole.jpg)
-Navn: Older - Skarp grønn
+36. HOY-30582 (236-3018_DG_Soft_Merino_3018_Rosa.jpg)
+Navn: Soft Merino - Rosa
 Kreditering: 
 
-37. HOY-43605 (238-413_DG_Older_413_Grangrønn.jpg)
-Navn: Older - Grangrønn
+37. HOY-30858 (236-3002_DG_Soft_Merino_3002_Lys_Grå_Melert_Banderole.jpg)
+Navn: Soft Merino - Lys grå melert
 Kreditering: 
 
-38. HOY-43611 (238-416_DG_Older_416_Oransje_Banderole.jpg)
-Navn: Older - Oransje
+38. HOY-30865 (236-3007_DG_Soft_Merino_3007_Lys_Karamell_Banderole.jpg)
+Navn: Soft Merino - Lys karamell
 Kreditering: 
 
-39. HOY-43615 (238-420_DG_Older_420_Isblå_Banderole.jpg)
-Navn: Older - Isblå
+39. HOY-30868 (236-3009_DG_Soft_Merino_3009_Lys_Gul.jpg)
+Navn: Soft Merino - Lys gul
 Kreditering: 
 
-40. HOY-43761 (238-401_DG_Older_401_Natur_Banderole.jpg)
-Navn: Older - Natur
+40. HOY-30872 (236-3011_DG_Soft_Merino_3011_Lys_blå_Banderole.jpg)
+Navn: Soft Merino - Lys blå
 Kreditering: 
 
-41. HOY-43764 (238-404_DG_Older_404_Brun.jpg)
-Navn: Older - Brun
+41. HOY-30876 (236-3013_DG_Soft_Merino_3013_Petrol.jpg)
+Navn: Soft Merino - Petrol
 Kreditering: 
 
-42. HOY-43767 (238-407_DG_Older_407_Grå_Banderole.jpg)
-Navn: Older - Grå
+42. HOY-30879 (236-3016_DG_Soft_Merino_3016_Karamell_Banderole.jpg)
+Navn: Soft Merino - Karamell
 Kreditering: 
 
-43. HOY-43770 (238-410_DG_Older_410_Pæregrønn.jpg)
-Navn: Older - Pæregrønn
+43. HOY-30881 (236-3017_DG_Soft_Merino_3017_Lyng_Banderole.jpg)
+Navn: Soft Merino - Lyng
 Kreditering: 
 
-44. HOY-43774 (238-413_DG_Older_413_Grangrønn_Banderole.jpg)
-Navn: Older - Grangrønn
+44. HOY-31439 (236-3019_DG_Soft_Merino_3019_Natur_Banderole.jpg)
+Navn: Soft Merino - Natur
 Kreditering: 
 
-45. HOY-43776 (238-415_DG_Older_415_Mørk_Rød.jpg)
-Navn: Older - Dyp rød
+45. HOY-31442 (236-3023_DG_Soft_Merino_3023_Svart_Banderole.jpg)
+Navn: Soft Merino - Svart
 Kreditering: 
 
-46. HOY-43781 (238-419_DG_Older_419_Turkis.jpg)
-Navn: Older - Turkis
+46. HOY-31590 (236-3025_DG_Soft_Merino_3025_Brun_Melert.jpg)
+Navn: Soft Merino - Brun melert
 Kreditering: 
 
-47. HOY-44231 (238-402_DG_Older_402_Latte_Banderole.jpg)
-Navn: Older - Latte
+47. HOY-32015 (236-3020_DG_Soft_Merino_3020_Flaskegrønn_Banderole.jpg)
+Navn: Soft Merino - Flaskegrønn
 Kreditering: 
 
-48. HOY-45313 (238-422_DG_Older_422_Gul.jpg)
-Navn: Older - Gul
+48. HOY-32018 (236-3021_DG_Soft_Merino_3021_Rød.jpg)
+Navn: Soft Merino - Rød
+Kreditering: 
+
+49. HOY-32023 (236-3024_DG_Soft_Merino_3024_Marine_Banderole.jpg)
+Navn: Soft Merino - Marine
+Kreditering: 
+
+50. HOY-33785 (236-3025_DG_Soft_Merino_3025_Brun_Melert(1).jpg)
+Navn: Soft Merino - Brun melert
+Kreditering: 
+
+51. HOY-34232 (236-3025_DG_Soft_Merino_3025_Brun_Melert_Banderole.jpg)
+Navn: Soft Merino - Brun melert
+Kreditering: 
+
+52. HOY-34835 (236-3028_DG_Soft_Merino_3028_Pink.jpg)
+Navn: Soft Merino - Pink
+Kreditering: 
+
+53. HOY-34838 (236-3033_DG_Soft_Merino_3033_Oransje_Banderole.jpg)
+Navn: Soft Merino - Oransje
+Kreditering: 
+
+54. HOY-35121 (236-3027_DG_Soft_Merino_3027_Isblå.jpg)
+Navn: Soft Merino - Isblå
+Kreditering: 
+
+55. HOY-35123 (236-3030_DG_Soft_Merino_3030_Skarp_Grønn_Banderole.jpg)
+Navn: Soft Merino - Skarp grønn
+Kreditering: 
+
+56. HOY-35127 (236-3032_DG_Soft_Merino_3032_Pudderrosa_Banderole.jpg)
+Navn: Soft Merino - Pudderrosa
+Kreditering: 
+
+57. HOY-36287 (236-3027_DG_Soft_Merino_3027_Isblå_Banderole.jpg)
+Navn: Soft Merino - Isblå
+Kreditering: 
+
+58. HOY-36289 (236-3029_DG_Soft_Merino_3029_Gul.jpg)
+Navn: Soft Merino - Gul
+Kreditering: 
+
+59. HOY-36292 (236-3031_DG_Soft_Merino_3031_Mintgrønn.jpg)
+Navn: Soft Merino - Mintgrønn
+Kreditering: 
+
+60. HOY-36718 (236-3028_DG_Soft_Merino_3028_Pink_Banderole.jpg)
+Navn: Soft Merino - Pink
+Kreditering: 
+
+61. HOY-36721 (236-3032_DG_Soft_Merino_3032_Pudderrosa.jpg)
+Navn: Soft Merino - Pudderrosa
+Kreditering: 
+
+62. HOY-36787 (236-3026_DG_Soft_Merino_3026_Lys_Lavendel.jpg)
+Navn: Soft Merino - Lys lavendel
+Kreditering: 
+
+63. HOY-36789 (236-3029_DG_Soft_Merino_3029_Gul_Banderole.jpg)
+Navn: Soft Merino - Gul
+Kreditering: 
+
+64. HOY-36790 (236-3031_DG_Soft_Merino_3031_Mintgrønn_Banderole.jpg)
+Navn: Soft Merino - Mintgrønn
+Kreditering: 
+
+65. HOY-36791 (236-3033_DG_Soft_Merino_3033_Oransje.jpg)
+Navn: Soft Merino - Oransje
+Kreditering: 
+
+66. HOY-39636 (236-3034_DG_Soft_Merino_3034_Muldvarp_Banderole.jpg)
+Navn: Soft Merino - Muldvarp
+Kreditering: 
+
+67. HOY-42773 (236-3036_DG_Soft_Merino_3036_Lys_Denim.jpg)
+Navn: Soft Merino - Lys denim
+Kreditering: 
+
+68. HOY-43195 (236-3036_DG_Soft_Merino_3036_Lys_Denim_Banderole.jpg)
+Navn: Soft Merino - Lys denim
+Kreditering: 
+
+69. HOY-43996 (236-3034_DG_Soft_Merino_3034_Muldvarp.jpg)
+Navn: Soft Merino - Muldvarp
+Kreditering: 
+
+70. HOY-45457 (236-3037_DG_Soft_Merino_3037_Latte_Banderole.jpg)
+Navn: Soft Merino - Latte
+Kreditering: 
+
+71. HOY-46049 (236-3037_DG_Soft_Merino_3037_Latte.jpg)
+Navn: Soft Merino - Latte
+Kreditering: 
+
+72. HOY-55636 (236-3035_DG_Soft_Merino_3035_Perlegrå_Banderole.jpg)
+Navn: Soft Merino - Perlegrå
+Kreditering: 
+
+73. HOY-55637 (236-3035_DG_Soft_Merino_3035_Perlegrå.jpg)
+Navn: Soft Merino - Perlegrå
+Kreditering: 
+
+74. HOY-55642 (236-3038_DG_Soft_Merino_3038__Nøttebrun_Banderole.jpg)
+Navn: Soft Merino - Nøttebrun
+Kreditering: 
+
+75. HOY-55643 (236-3038_DG_Soft_Merino_3038__Nøttebrun.jpg)
+Navn: Soft Merino - Nøttebrun
+Kreditering: 
+
+76. HOY-55644 (236-3039_DG_Soft_Merino_3039_Lys_Lilac_Banderole.jpg)
+Navn: Soft Merino - Lys lilac
+Kreditering: 
+
+77. HOY-55645 (236-3039_DG_Soft_Merino_3039_Lys_Lilac.jpg)
+Navn: Soft Merino - Lys lilac
+Kreditering: 
+
+78. HOY-55646 (236-3040_DG_Soft_Merino_3040_Dus_Rose.jpg)
+Navn: Soft Merino - Dus rose
+Kreditering: 
+
+79. HOY-55647 (236-3040_DG_Soft_Merino_3040_Dus_Rose_Banderole.jpg)
+Navn: Soft Merino - Dus rose
 Kreditering: 
 
